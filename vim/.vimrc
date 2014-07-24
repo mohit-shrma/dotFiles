@@ -1,3 +1,5 @@
+call pathogen#infect()
+call pathogen#helptags()
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
@@ -14,7 +16,7 @@ set autoindent
 set showmode
 
 "allow cursor to go to invalid places
-set virtualedit=all
+"set virtualedit=all
 
 "set textwidth to 80 chars
 set textwidth=80
@@ -25,5 +27,5 @@ set hlsearch
 "incrementally match search
 set incsearch
 
-
+set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.class,*.jar,*.html,*/target/*
 
