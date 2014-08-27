@@ -1,0 +1,8 @@
+some color schemes:
+marslo256
+wombat*
+zenburn
+candy*
+jellybeans
+solarized
+
