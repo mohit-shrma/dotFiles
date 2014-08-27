@@ -5,4 +5,7 @@ zenburn
 candy*
 jellybeans
 solarized
-
+molokai
+badwolf
+vividchalk
+lucious
