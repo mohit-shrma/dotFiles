@@ -9,3 +9,4 @@ molokai
 badwolf
 vividchalk
 lucious
+base-16

@@ -10,7 +10,7 @@ set shiftwidth=2
 set softtabstop=2
 set expandtab
 set autoindent
-
+set foldmethod=syntax
 
 "show currentmode
 set showmode
@@ -28,4 +28,8 @@ set hlsearch
 set incsearch
 
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.class,*.jar,*.html,*/target/*
-
+"set t_Co=256
+"set background=dark
+"let base16colorspace=256
+"let g:solarized_termcolors=256
+"colorscheme solarized
