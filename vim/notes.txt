@@ -11,3 +11,4 @@ vividchalk
 lucious
 base-16
 desert (comes by default gud enuf)
+xoria256
