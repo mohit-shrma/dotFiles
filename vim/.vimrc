@@ -28,9 +28,5 @@ set hlsearch
 set incsearch
 
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.class,*.jar,*.html,*/target/*
-set t_Co=256
 syntax enable
-let g:solarized_termcolors=256
-"set background=dark
-"let g:solarized_termcolors=256
-"colorscheme solarized
+colorscheme wombat256
