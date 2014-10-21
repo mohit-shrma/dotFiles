@@ -30,7 +30,9 @@ git_bundles = [
   "git://github.com/tomtom/tlib_vim.git",
   "git://github.com/MarcWeber/vim-addon-mw-utils.git",
   "git://github.com/garbas/vim-snipmate.git",
-  "git://github.com/mileszs/ack.vim.git"
+  "git://github.com/mileszs/ack.vim.git",
+  "git://github.com/majutsushi/tagbar"
+  
 ]
 
 vim_org_scripts = [
