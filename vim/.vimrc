@@ -30,3 +30,12 @@ set incsearch
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.class,*.jar,*.html,*/target/*
 syntax enable
 colorscheme wombat256
+
+let g:tagbar_left = 1
+let g:tagbar_autofocus = 1
+set ruler
+
+"Exceed 80 columnwidth
+highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+match OverLength /\%81v.\+/
+
