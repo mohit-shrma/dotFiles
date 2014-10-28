@@ -32,6 +32,7 @@ syntax enable
 colorscheme wombat256
 
 let g:tagbar_left = 1
+let g:tagbar_zoomwidth = 0
 let g:tagbar_autofocus = 1
 set ruler
 
