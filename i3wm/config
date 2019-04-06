@@ -165,3 +165,6 @@ for_window [class="^fir.*"] border pixel 1
 bindsym $mod+Shift+n [class="^.*"] border toggle
 
 
+#binding for increase volume
+bindsym $mod+Control+m exec "amixer -D pulse sset Master 5%+" 
+bindsym $mod+Control+n exec "amixer -D pulse sset Master 5%-" 
